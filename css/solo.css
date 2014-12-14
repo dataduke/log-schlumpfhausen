@@ -1,4 +1,4 @@
-@import url(//fonts.googleapis.com/css?family=Montserrat:700);
+/*@import url(//fonts.googleapis.com/css?family=Montserrat:700);*/
 @import url(//fonts.googleapis.com/css?family=Vollkorn:400italic,700italic,400,700);
 
 html {
@@ -13,7 +13,8 @@ html {
 }
 
 body {
-  background-image:  #ff5544 url(img/background.jpg) no-repeat right top;
+  background-color: #ff5544;
+  background-image: url(img/background.jpg) no-repeat left top;
   margin: 2rem 0 5rem;
   color: #333;
 }
@@ -34,7 +35,7 @@ a:hover, a:focus {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: Montserrat, sans-serif;
+  /*font-family: Montserrat, sans-serif;*/
   margin: 0 0 0.5rem -0.1rem /* align left edge */;
   line-height: 1;
   color: #111;
