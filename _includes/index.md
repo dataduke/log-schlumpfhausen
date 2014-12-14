@@ -1,9 +1,4 @@
 
----
-layout: default 
-title: VIP-Jenny-Weihnachten-Nürnberg  
----
-
 ## Weihnachts-, Wellness-, Kultur- & Rundum-Wohlfühl-Wochenende von Frau & Herrn Schlumpf in Nürnberg 2014
 
 ### Programmheft
