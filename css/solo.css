@@ -16,6 +16,7 @@ body {
   background-color: #ff5544;
   margin: 2rem 0 5rem;
   color: #333;
+  text-shadow: 1px 1px 1px #000;
 }
 
 @media (min-width: 30rem) {
