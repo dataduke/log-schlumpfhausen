@@ -12,7 +12,7 @@ html {
 }
 
 body {
-  background-image: url("background.jpg");
+  background-image:  #ff5544 url(img/background.jpg) no-repeat right top;
   margin: 2rem 0 5rem;
   color: #333;
 }
