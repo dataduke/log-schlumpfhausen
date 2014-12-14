@@ -1,0 +1,13 @@
+/* ABOUT */
+                                         
+Site: Schlumpfhausen    
+Location: Jena, Germany                     
+Name: Jennifer & Benjamin     
+Twitter: germansmurfs    
+                            
+/* SITE */
+                          
+Last update: 2014                   
+Standards: HTML5, CSS3.                  
+Components: Modernizr, jQuery, etc.                            
+Software: Software used for the development
