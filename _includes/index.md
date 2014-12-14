@@ -4,18 +4,18 @@ layout: default
 title: VIP-Jenny-Weihnachten-Nürnberg  
 ---
 
-# Weihnachts-, Wellness-, Kultur- & Rundum-Wohlfühl-Wochenende von Frau & Herrn Schlumpf in Nürnberg 2014
+## Weihnachts-, Wellness-, Kultur- & Rundum-Wohlfühl-Wochenende von Frau & Herrn Schlumpf in Nürnberg 2014
 
-## Programmheft
+### Programmheft
 
-### 2014-12-20: Freitag abend
+#### 2014-12-20: Freitag abend
 
 - 18:00 [Bahn](http://www.bahn.de/): Anreise (Jena-Nürnberg)
 - 20:00 [Motel One](http://www.motel-one.com/de/hotels/nuernberg/hotel-nuernberg-city/): Checkin & Knuscheln
 - 21:00 Sushi Nagoya: Abendessen im 
 - 22:00 [Christkindlesmarkt](http://www.christkindlesmarkt.de): Kurzer nächtlicher Spaziergang
 
-### 2014-12-21: Samstag
+#### 2014-12-21: Samstag
 
 - 10:00 [Motel One](http://www.motel-one.com/de/hotels/nuernberg/hotel-nuernberg-city/): Ausgiebiges Frühstück (7-11)
 - 11:00 [Palm Beach](http://www.palm-beach.de/): Wellnesstag mit Schwimmbecken, Wellenbad, Saunawelt, Kristall Therme mit Kneippbereich sowie Future World & Space Center (16 Rutschen auf 1,6 km)
@@ -26,14 +26,14 @@ title: VIP-Jenny-Weihnachten-Nürnberg
 - 19:30 [Staatstheater](http://www.staatstheater-nuernberg.de/): [Cyrano](http://www.staatstheater-nuernberg.de/index.php?page=ballett,veranstaltung,cyrano_ua_,87858) im Operhaus (Tanzstück von Goyo Montero, Ballet Uraufführung) 
 - 22:00 [Club Nachtschicht](http://www.nachtschicht-nuernberg.de/): [Hitradio N1](http://www.hitradion1.de/index.php) Power Party (Get Lucky Edition) - Live on air mit [Flo Kerschner](https://www.facebook.com/flokerschnershow) & anderen Star-DJs. 
 
-### 2014-12-21: Sonntag
+#### 2014-12-21: Sonntag
 
 - 9:30 [Motel One](http://www.motel-one.com/de/hotels/nuernberg/hotel-nuernberg-city/): Ausgiebiges Frühstück (7-11) & Checkout
 - 11:00 [Meistersingerhalle](http://www.meistersingerhalle.nuernberg.de): Weihnachtskonzert der Nürnberger Symphoniker in der Meistersingerhalle
 - 13:00 [Christkindlesmarkt](http://www.christkindlesmarkt.de): Ausgiebiger Besuch  mit Glühweinverkostung und Mittagsessen
 - 17:00 [Bahn](http://www.bahn.de/): Abreise (Nürnberg-Jena)
 
-## Linkliste
+### Linkliste
 
 - [Motel One Nürnberg](http://www.motel-one.com/de/hotels/nuernberg/hotel-nuernberg-city/)
 - [Christkindlesmarkt](http://www.christkindlesmarkt.de)
@@ -43,7 +43,7 @@ title: VIP-Jenny-Weihnachten-Nürnberg
 - [Club Nachtschicht](http://www.nachtschicht-nuernberg.de/)
 - [Hitradio N1](http://www.hitradion1.de/index.php)
 
-## Kostenkalkulation
+### Kostenkalkulation
 
 - 188 4 Sterne Hotel inkl. Frühstück (2 Nächte)
 - 48 Palm Beach Wellnesstag Hamam mit Seifen- und Rubbelmassage im türkisch-osmanischen Hamam, Vitamin-Cocktail an der Bar im „Hawaii Inn“ und Sauna-Honigcreme in der 150g Tube zum Einreiben nach den Aufgüssen (Frau Schlumpf)
