@@ -4,7 +4,6 @@
 html {
   font-family: 'Vollkorn', serif;
   font: 16px/1.5;
-  color: #bfbfbf;
 }
 
 @media (min-width: 30rem) {
@@ -16,7 +15,8 @@ html {
 body {
   background-color: #ff5544;
   margin: 2rem 0 5rem;
-  color: #333;
+  /*color: #333;*/
+  color: #bfbfbf;
   text-shadow: 1px 1px 1px #000;
 }
 
