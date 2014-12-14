@@ -12,6 +12,7 @@ html {
 }
 
 body {
+  background-image: url("background.jpg");
   margin: 2rem 0 5rem;
   color: #333;
 }
