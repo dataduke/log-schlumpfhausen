@@ -1,28 +1,4 @@
-title:            Schlumpfhausen
-description:      Schlumpfiges von Jenny und Benny
-url:              http://dataduke.github.io/log-schlumpfhausen
-signoff:          # Your name.
-disqus_shortname: # disqus comment thread for post header options. ( leave blank if unwanted. )
-facebook_appid:   # appid for like button, remove from /_includes/share.html if unwanted.
-google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.
+title_tag_text: Schlupfhausen
+h1_tag_text: Schlumpfiges von Jenny und Benny
 
-BASE_PATH : http://dataduke.github.io/log-schlumpfhausen
-
-links:
-  - name:         About
-    url:          /about
-  - name:         Log
-    url:          http://dataduke.github.io/log-schlumpfhausen
-    external:     true
-  - name:         Email
-    url:          mailto:b.nothdurft@gmail.com
-    external:     true
-  # - name:         GitHub
-  #   url:          http://github.com/muan
-    external:     true
-highlighter:      pygments
-permalink:        pretty
-markdown:         redcarpet
-redcarpet:
-  extensions:
-    - smart
+exclude: ["Procfile", "Gruntfile.js", "README.md", "package.json", "CNAME", "node_modules"]

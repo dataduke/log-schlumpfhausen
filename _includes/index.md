@@ -1,6 +1,6 @@
 
 ---
-layout: post  
+layout: default 
 title: VIP-Jenny-Weihnachten-Nürnberg  
 ---
 
