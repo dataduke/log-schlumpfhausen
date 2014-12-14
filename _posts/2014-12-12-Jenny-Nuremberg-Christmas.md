@@ -1,7 +1,7 @@
 
 ---
-layout: post
-title: VIP-Jenny-Weihnachten-Nürnberg
+layout: post  
+title: VIP-Jenny-Weihnachten-Nürnberg  
 ---
 
 # Weihnachts-, Wellness-, Kultur- & Rundum-Wohlfühl-Wochenende von Frau & Herrn Schlumpf in Nürnberg 2014
@@ -52,4 +52,5 @@ title: VIP-Jenny-Weihnachten-Nürnberg
 - 75 Ballet im Staatstheater (2 Karten)
 - 62 Weihnachtskonzert in Meistersingerhalle (2 Karten)
 - 159 Ring
-* **620 Euro SUMME**
+- 70 Bahn 
+* **690 Euro SUMME**
