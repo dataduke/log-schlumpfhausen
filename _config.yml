@@ -1,6 +1,6 @@
 title:            Schlumpfhausen
-description:      2 smurfs lost in Jena.
-url:              # Site url.
+description:      Schlumpfiges von Jenny und Benny
+url:              http://dataduke.github.io/log-schlumpfhausen
 signoff:          # Your name.
 disqus_shortname: # disqus comment thread for post header options. ( leave blank if unwanted. )
 facebook_appid:   # appid for like button, remove from /_includes/share.html if unwanted.
@@ -9,8 +9,8 @@ google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.
 links:
   - name:         About
     url:          /about
-  - name:         Blog
-    url:          http://dataduke.github.io/schlumphausen
+  - name:         Log
+    url:          http://dataduke.github.io/log-schlumpfhausen
     external:     true
   - name:         Email
     url:          mailto:b.nothdurft@gmail.com
