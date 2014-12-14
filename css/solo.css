@@ -4,6 +4,7 @@
 html {
   font-family: 'Vollkorn', serif;
   font: 16px/1.5;
+  color: #bfbfbf;
 }
 
 @media (min-width: 30rem) {
