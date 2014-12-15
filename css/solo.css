@@ -15,8 +15,9 @@ html {
 body {
   background-color: #ff5544;
   margin: 2rem 0 5rem;
-  /*color: #333; #99ff88*/
-  color: #7DF481;
+  /*color: #333; */
+  /*color: #7DF481;*/
+  color: #99ff88;
   text-shadow: 1px 1px 1px #000;
 }
 
@@ -76,7 +77,26 @@ h2 {
   }
 }
 
-h3, h4, h5, h6 {
+h3 {
+  margin-top: 2rem;
+  font-size: 1.25rem;
+  margin-bottom: 0.75rem;
+}
+
+@media (min-width: 30rem) {
+  h3 {
+    margin-top: 2.5rem;
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+  }
+}
+
+h4 {
+  text-transform: uppercase;
+}
+
+
+h5, h6 {
   margin-top: 1.5rem;
   font-size: 1rem;
   font-style: italic;
