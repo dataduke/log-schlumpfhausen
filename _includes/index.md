@@ -7,7 +7,7 @@
 
 - 18:00 [Bahn](http://www.bahn.de/) - Anreise (Jena-Nürnberg)
 - 20:00 [Motel One](http://www.motel-one.com/de/hotels/nuernberg/hotel-nuernberg-city/) - Checkin & Knuscheln
-- 21:00 [Sushi Nagoya](http://www.sushi-nagoya.com/) - Abendessen im 
+- 21:00 [Sushi Nagoya](http://www.sushi-nagoya.com/) - Japanisches Abendessen mit Bento-Box und Menü M6.
 - 22:00 [Christkindlesmarkt](http://www.christkindlesmarkt.de) - Kurzer nächtlicher Spaziergang
 
 #### 2014-12-21 / Samstag
