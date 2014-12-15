@@ -50,5 +50,4 @@
 - **62** - Weihnachtskonzert in der Meistersingerhalle (2 Karten)
 - **60** - Bahnfahrten
 - **159** - Schlumpfring
-
-= **720** - Summe
+- **720 SUMME**
