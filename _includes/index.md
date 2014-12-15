@@ -24,9 +24,9 @@
 #### 2014-12-21 / Sonntag
 
 - 9:30 [Motel One](http://www.motel-one.com/de/hotels/nuernberg/hotel-nuernberg-city/) - Erfrischendes Frühstück (7-11) & Checkout
-- 11:00 [Meistersingerhalle](http://www.meistersingerhalle.nuernberg.de): Weihnachtskonzert der Nürnberger Symphoniker in der Meistersingerhalle
+- 11:00 [Meistersingerhalle](http://www.meistersingerhalle.nuernberg.de) - Weihnachtskonzert der Nürnberger Symphoniker in der Meistersingerhalle
 - 13:00 [Christkindlesmarkt](http://www.christkindlesmarkt.de) - Entspannter Besuch mit wärmender Glühweinverkostung und gemütlichem Mittagsessen zum Ausklang
-- 17:00 [Bahn](http://www.bahn.de/): Abreise (Nürnberg-Jena)
+- 17:00 [Bahn](http://www.bahn.de/) - Abreise (Nürnberg-Jena)
 
 ### Linkliste
 
@@ -41,13 +41,13 @@
 
 ### Kostenkalkulation
 
-- 188 - 4 Sterne Hotel inkl. Frühstück (2 Nächte)
-- 48 - Palm Beach Wellnesstag Hamam mit Seifen- und Rubbelmassage im türkisch-osmanischen Hamam, Vitamin-Cocktail an der Bar im „Hawaii Inn“ und Sauna-Honigcreme in der 150g Tube zum Einreiben nach den Aufgüssen (Frau Schlumpf)
-- 28 - Palm Beach Hot Chocolate Massage (Frau Schlumpf)
-- 58 - Palm Beach Tag Meeresbrise mit Meersalzpeelingmassage im Hamam und Thalassobad in der Schwebeliege inkl. pflegender Körperlotion (Frau Schlumpf)
-- 75 - Ballet im Staatstheater (2 Karten)
-- 62 - Weihnachtskonzert in Meistersingerhalle (2 Karten)
-- 159 - Ring
-- 70 - Bahn 
+- **188** - 4 Sterne Hotel inkl. Frühstück (2 Nächte)
+- **48** - Palm Beach Wellnesstag Hamam mit Seifen- und Rubbelmassage im türkisch-osmanischen Hamam, Vitamin-Cocktail an der Bar im „Hawaii Inn“ und Sauna-Honigcreme in der 150g Tube zum Einreiben nach den Aufgüssen (Frau Schlumpf)
+- **28** - Palm Beach Hot Chocolate Massage (Frau Schlumpf)
+- **58** - Palm Beach Tag Meeresbrise mit Meersalzpeelingmassage im Hamam und Thalassobad in der Schwebeliege inkl. pflegender Körperlotion (Frau Schlumpf)
+- **75** - Ballet im Staatstheater (2 Karten)
+- **62** - Weihnachtskonzert in Meistersingerhalle (2 Karten)
+- **159** - Ring
+- **60** - Bahn 
 
-**EUR 690 - Summe**
+**680** - Summe**
