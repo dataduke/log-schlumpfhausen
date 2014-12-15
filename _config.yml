@@ -1,5 +1,5 @@
 # title_tag_text: X-MAS in Schlumpfhausen
 title_tag_text: Schlumpffest  
-h1_tag_text: Schlumpfiges für Jenny und Benny *g*
+h1_tag_text: Schlumpfiges für Jenny und Benny
 
 exclude: ["Procfile", "Gruntfile.js", "README.md", "package.json", "CNAME", "node_modules"]
