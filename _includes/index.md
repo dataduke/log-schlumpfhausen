@@ -51,4 +51,4 @@
 - **60** - Bahnfahrten
 - **159** - Schlumpfring
 
-**720** - Summe**
+= **720** - Summe
