@@ -25,7 +25,7 @@
 
 - 9:30 [Motel One](http://www.motel-one.com/de/hotels/nuernberg/hotel-nuernberg-city/) - Erfrischendes Frühstück (7-11) & Checkout
 - 11:00 [Meistersingerhalle](http://www.meistersingerhalle.nuernberg.de) - Weihnachtskonzert der Nürnberger Symphoniker in der Meistersingerhalle
-- 13:00 [Christkindlesmarkt](http://www.christkindlesmarkt.de) - Gemütlicher Besuch mit wärmender Glühweinverkostung und kleinem Mittagsessen
+- 14:00 [Christkindlesmarkt](http://www.christkindlesmarkt.de) - Gemütlicher Besuch mit wärmender Glühweinverkostung und kleinem Mittagsessen
 - 18:30 [Bahn](http://www.bahn.de/) - Abreise (Nürnberg-Jena) mit Hörbuch zum Ausklang - Die Känguru-Chroniken (Ansichten eines Beuteltieres) von [Marc-Uwe Kling](http://www.marcuwekling.de/)
 
 ### Linkliste
