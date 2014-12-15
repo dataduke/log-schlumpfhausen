@@ -42,9 +42,9 @@
 ### Kostenkalkulation
 
 - **188** - 4 Sterne Hotel inkl. Frühstück (2 Nächte)
-- **48** - Palm Beach Wellnesstag Hamam mit Seifen- und Rubbelmassage im türkisch-osmanischen Hamam, Vitamin-Cocktail an der Bar im „Hawaii Inn“ und Sauna-Honigcreme in der 150g Tube zum Einreiben nach den Aufgüssen (Frau Schlumpf)
+- **48** - Palm Beach Wellnesstag Hamam mit Seifen- und Rubbelmassage im türkisch-osmanischen Hamam, Vitamin-Cocktail an der Bar im Hawaii Inn und Sauna-Honigcreme in der 150g Tube zum Einreiben nach den Aufgüssen (Frau Schlumpf)
 - **28** - Palm Beach Hot Chocolate Massage (Frau Schlumpf)
-- **58** - Palm Beach Tag Meeresbrise mit Meersalzpeelingmassage im Hamam und Thalassobad in der Schwebeliege inkl. pflegender Körperlotion (Frau Schlumpf)
+- **58** - Palm Beach Tag Meeresbrise mit Meersalzpeelingmassage im Hamam und Thalassobad in der Schwebeliege inkl. pflegender Körperlotion (Her Schlumpf)
 - **75** - Ballet im Staatstheater (2 Karten)
 - **62** - Weihnachtskonzert in Meistersingerhalle (2 Karten)
 - **159** - Ring
