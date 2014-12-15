@@ -40,3 +40,5 @@
 - [Hitradio N1](http://www.hitradion1.de/index.php)
 - [Meistersingerhalle](http://www.meistersingerhalle.nuernberg.de)
 - [Marc-Uwe Kling](http://www.marcuwekling.de/)
+
+**\* von und mit Benny ;-)**
