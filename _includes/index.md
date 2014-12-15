@@ -6,7 +6,7 @@
 #### 2014-12-20 / Freitag
 
 - 18:00 [Bahn](http://www.bahn.de/) - Anreise (Jena-Nürnberg)
-- 20:00 [Motel One](http://www.motel-one.com/de/hotels/nuernberg/hotel-nuernberg-city/) - Checkin & Knuscheln
+- 20:00 [Motel One](http://www.motel-one.com/de/hotels/nuernberg/hotel-nuernberg-city/) - Checkin, Knuscheln & Beschlumpfen
 - 21:00 [Sushi Nagoya](http://www.sushi-nagoya.com/) - Abendessen mit Bento-Box & Menü M6
 - 22:00 [Christkindlesmarkt](http://www.christkindlesmarkt.de) - Kurzer nächtlicher Spaziergang
 
@@ -14,7 +14,7 @@
 
 - 10:00 [Motel One](http://www.motel-one.com/de/hotels/nuernberg/hotel-nuernberg-city/) - Erholsames Frühstück (7-11)
 - 11:00 [Palm Beach](http://www.palm-beach.de/) - Wellnesstag mit Schwimmbecken, Wellenbad, Saunawelt, Kristall Therme mit Kneippbereich sowie Future World & Space Center (16 Rutschen auf 1,6 km)
-- 13:30 [Palm Beach](http://www.palm-beach.de/) - Ayurvedische Körpermassage & Meersalzpeelingmassage (Massage uno)
+- 13:30 [Palm Beach](http://www.palm-beach.de/) - Ayurvedische Körpermassage & Meersalzpeeling (Massage uno)
 - 15:00 [Palm Beach](http://www.palm-beach.de/) - Hot Chocoloate Rückenmassage & Thalassobad in der Schwebeliege (Massage duo)
 - 16:00 [Palm Beach](http://www.palm-beach.de/) - Abendessen & Cocktails in Hawaii Inn Bar
 - 17:30 [Motel One](http://www.motel-one.com/de/hotels/nuernberg/hotel-nuernberg-city/) - Relaxen, Knuscheln & Schminken
