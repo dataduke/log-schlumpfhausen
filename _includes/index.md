@@ -3,14 +3,14 @@
 
 ### Programmheft
 
-#### 2014-12-20: Freitag abend
+#### 2014-12-20 — Freitag
 
 - 18:00 [Bahn](http://www.bahn.de/) — Anreise (Jena-Nürnberg)
 - 20:00 [Motel One](http://www.motel-one.com/de/hotels/nuernberg/hotel-nuernberg-city/) — Checkin & Knuscheln
 - 21:00 Sushi Nagoya: Abendessen im 
 - 22:00 [Christkindlesmarkt](http://www.christkindlesmarkt.de) — Kurzer nächtlicher Spaziergang
 
-#### 2014-12-21: Samstag
+#### 2014-12-21 — Samstag
 
 - 10:00 [Motel One](http://www.motel-one.com/de/hotels/nuernberg/hotel-nuernberg-city/) — Erholsames Frühstück (7-11)
 - 11:00 [Palm Beach](http://www.palm-beach.de/) — Wellnesstag mit Schwimmbecken, Wellenbad, Saunawelt, Kristall Therme mit Kneippbereich sowie Future World & Space Center (16 Rutschen auf 1,6 km)
@@ -21,7 +21,7 @@
 - 19:30 [Staatstheater](http://www.staatstheater-nuernberg.de/) — [Cyrano](http://www.staatstheater-nuernberg.de/index.php?page=ballett,veranstaltung,cyrano_ua_,87858) im Operhaus (Tanzstück von Goyo Montero, Ballet Uraufführung) 
 - 22:00 [Club Nachtschicht](http://www.nachtschicht-nuernberg.de/) — [Hitradio N1](http://www.hitradion1.de/index.php) Power Party (Get Lucky Edition) — Live on air mit [Flo Kerschner](https://www.facebook.com/flokerschnershow) & anderen Star-DJs. 
 
-#### 2014-12-21: Sonntag
+#### 2014-12-21 — Sonntag
 
 - 9:30 [Motel One](http://www.motel-one.com/de/hotels/nuernberg/hotel-nuernberg-city/) — Erfrischendes Frühstück (7-11) & Checkout
 - 11:00 [Meistersingerhalle](http://www.meistersingerhalle.nuernberg.de): Weihnachtskonzert der Nürnberger Symphoniker in der Meistersingerhalle
