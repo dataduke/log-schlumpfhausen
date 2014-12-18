@@ -3,14 +3,14 @@
 
 ### Programmheft
 
-#### 2014-12-20 / Freitag
+#### 2014-12-19 / Freitag
 
 - 18:00 [Bahn](http://www.bahn.de/) - Anreise (Jena-Nürnberg)
 - 20:00 [Motel One](http://www.motel-one.com/de/hotels/nuernberg/hotel-nuernberg-city/) - Checkin, Knuscheln & Beschlumpfen
 - 21:00 [Sushi Nagoya](http://www.sushi-nagoya.com/) - Abendessen mit Bento-Box & Menü M6
 - 22:00 [Christkindlesmarkt](http://www.christkindlesmarkt.de) - Kurzer nächtlicher Spaziergang
 
-#### 2014-12-21 / Samstag
+#### 2014-12-20 / Samstag
 
 - 10:00 [Motel One](http://www.motel-one.com/de/hotels/nuernberg/hotel-nuernberg-city/) - Erholsames Frühstück (7-11)
 - 11:00 [Palm Beach](http://www.palm-beach.de/) - Wellnesstag mit Schwimmbecken, Wellenbad, Saunawelt, Kristall Therme mit Kneippbereich sowie Future World & Space Center (16 Rutschen auf 1,6 km)
@@ -24,7 +24,7 @@
 #### 2014-12-21 / Sonntag
 
 - 9:30 [Motel One](http://www.motel-one.com/de/hotels/nuernberg/hotel-nuernberg-city/) - Erfrischendes Frühstück (7-11) & Checkout
-- 11:00 [Meistersingerhalle](http://www.meistersingerhalle.nuernberg.de) - Weihnachtskonzert der Nürnberger Symphoniker in der Meistersingerhalle
+- 11:00 [Meistersingerhalle](http://www.meistersingerhalle.nuernberg.de) - Weihnachtskonzert der Nürnberger Symphoniker
 - 14:00 [Christkindlesmarkt](http://www.christkindlesmarkt.de) - Gemütlicher Besuch mit wärmender Glühweinverkostung und kleinem Mittagsessen
 - 18:30 [Bahn](http://www.bahn.de/) - Abreise (Nürnberg-Jena) mit Hörbuch zum Ausklang - Die Känguru-Chroniken (Ansichten eines Beuteltieres) von [Marc-Uwe Kling](http://www.marcuwekling.de/)
 
