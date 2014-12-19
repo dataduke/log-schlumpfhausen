@@ -19,7 +19,7 @@
 - 16:00 [Palm Beach](http://www.palm-beach.de/) - Abendessen & Cocktails in Hawaii Inn Bar
 - 17:30 [Motel One](http://www.motel-one.com/de/hotels/nuernberg/hotel-nuernberg-city/) - Relaxxxen, Knuscheln & Schminken
 - 19:30 [Staatstheater](http://www.staatstheater-nuernberg.de/) - [Cyrano](http://www.staatstheater-nuernberg.de/index.php?page=ballett,veranstaltung,cyrano_ua_,87858) im Opernhaus (Tanzstück von [Goyo Montero](http://www.goyo-montero.com/), Ballet-Uraufführung) 
-- 22:00 [Club Nachtschicht](http://www.nachtschicht-nuernberg.de/) - [Hitradio N1](http://www.hitradion1.de/index.php) Power Party (Get Lucky Edition) - Live on Air mit [Flo Kerschner](https://www.facebook.com/flokerschnershow) & anderen Star-DJs. 
+- 22:00 [Club Nachtschicht](http://www.nachtschicht-nuernberg.de/) - VIP-Zugang zur [Hitradio N1](http://www.hitradion1.de/index.php) Power Party (Get Lucky Edition) - Live on Air mit [Flo Kerschner](https://www.facebook.com/flokerschnershow) & anderen Star-DJs. 
 
 #### 2014-12-21 / Sonntag
 
